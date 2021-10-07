@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on <a href="https://github.com/developmentAC/beagleTM" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/beagleTM/raw/master/graphics/beagleTM_logo2.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+
 <!--
 **obonhamcarter/obonhamcarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
