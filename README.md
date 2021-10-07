@@ -4,8 +4,8 @@
 ### Dynamic links, Stats
 
 ![Number of current visitors right now ](https://visitor-badge.laobi.icu/badge?page_id=obonhamcarter) 
-![Following](https://img.shields.io/github/followers/obonhamcarter?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=obonhamcarter&amp;color=blue)
+![Following](https://img.shields.io/github/followers/obonhamcarter?label=Follow&style=social)
 [![BLM](https://img.shields.io/badge/BlackLivesMatter-yellow)](https://blacklivesmatter.com/)
 
 ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter&amp;show_icons=true&amp;theme=radical)
