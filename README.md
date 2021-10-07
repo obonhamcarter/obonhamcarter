@@ -8,6 +8,7 @@
 ![Following](https://img.shields.io/github/followers/obonhamcarter?label=Follow&style=social)
 [![BLM](https://img.shields.io/badge/BlackLivesMatter-yellow)](https://blacklivesmatter.com/)
 
+![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter&amp;show_icons=true&amp;theme=tokyonight)
 ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter&amp;show_icons=true&amp;theme=radical)
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=obonhamcarter&amp;show_icons=true&amp;theme=radical)
