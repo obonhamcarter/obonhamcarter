@@ -8,14 +8,14 @@
 -  <a href="https://github.com/developmentAC/genExSt" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/genExSt/raw/master/graphics/genExST_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 
 
-### Dynamic links
+### Dynamic links, Stats
 
-![Number of current visitors right now ](https://visitor-badge.laobi.icu/badge?page_id=obonhamcarter)
+ ![Number of current visitors right now ](https://visitor-badge.laobi.icu/badge?page_id=obonhamcarter)
 
-![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter)
+ ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter)
+ ![Grade](https://github-readme-stats.vercel.app/api?username=obonhamcarter)
 
-![Following](https://img.shields.io/github/followers/obonhamcarter?label=Follow&style=social)
-
+ ![Following](https://img.shields.io/github/followers/obonhamcarter?label=Follow&style=social)
 
 
 
