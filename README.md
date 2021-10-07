@@ -15,13 +15,10 @@
 
 
 🔭 I’m currently working on:
--  <a href="https://github.com/developmentAC/beagleTM" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/beagleTM/raw/master/graphics/beagleTM_logo2.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-
--  <a href="https://github.com/developmentAC/gradeAlert" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/gradeAlert/raw/main/graphics/gradeAlert_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-
--  <a href="https://github.com/developmentAC/genExSt" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/genExSt/raw/master/graphics/genExST_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-
--  <a href="https://github.com/developmentAC/Morse-Encode-Decoder" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/Morse-Encode-Decoder/raw/main/graphics/logo_morse.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+<a href="https://github.com/developmentAC/beagleTM" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/beagleTM/raw/master/graphics/beagleTM_logo2.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+<a href="https://github.com/developmentAC/gradeAlert" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/gradeAlert/raw/main/graphics/gradeAlert_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+<a href="https://github.com/developmentAC/genExSt" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/genExSt/raw/master/graphics/genExST_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+<a href="https://github.com/developmentAC/Morse-Encode-Decoder" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/Morse-Encode-Decoder/raw/main/graphics/logo_morse.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 
 
 ## 🧰 Languages and Tools:
