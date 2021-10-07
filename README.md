@@ -33,11 +33,12 @@
 
 ## Skills
 
-https://img.shields.io/badge/Skill-Python!-green
-https://img.shields.io/badge/Skill-Docker!-blue
-https://img.shields.io/badge/Skill-streamlit!-blue
-https://img.shields.io/badge/Skill-R!-red
-https://img.shields.io/badge/Skill-Javascript!-yellow
+![Python](https://img.shields.io/badge/Skill-Python!-green)
+![Docker](https://img.shields.io/badge/Skill-Docker!-blue)
+![Streamlit](https://img.shields.io/badge/Skill-streamlit!-blue)
+![R](https://img.shields.io/badge/Skill-R!-red)
+![RStudio](https://img.shields.io/badge/Skill-rStudio!-blue)
+![Javascript](https://img.shields.io/badge/Skill-Javascript!-yellow)
 
 
 
