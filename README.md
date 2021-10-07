@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Welcome](graphics/myProfile.png)
 
 ### Dynamic links, Stats
 
