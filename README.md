@@ -2,6 +2,14 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/developmentAC/beagleTM" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/beagleTM/raw/master/graphics/beagleTM_logo2.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 
+
+### Dynamic links
+
+Number of current visitors right now: https://visitor-badge.laobi.icu/badge?page_id=obonhamcarter
+
+Programming languages
+https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter
+
 <!--
 **obonhamcarter/obonhamcarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
