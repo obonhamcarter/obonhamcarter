@@ -9,6 +9,9 @@
 
 ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter)
 
+![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter&amp;show_icons=true&amp;theme=radical)
+
+
 ![Grade](https://github-readme-stats.vercel.app/api?username=obonhamcarter)
 
 
