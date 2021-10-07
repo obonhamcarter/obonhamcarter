@@ -5,10 +5,11 @@
 
 ### Dynamic links
 
-Number of current visitors right now 
+Number of current visitors right now
+
 ![Number of current visitors right now ](https://visitor-badge.laobi.icu/badge?page_id=obonhamcarter)
 
-Programming languages
+
 ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter)
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter
