@@ -1,4 +1,3 @@
-
 ![Welcome](graphics/myProfile.png)
 
 ### Dynamic links, Stats
@@ -8,23 +7,18 @@
 ![Following](https://img.shields.io/github/followers/obonhamcarter?label=Follow&style=social)
 [![BLM](https://img.shields.io/badge/BlackLivesMatter-yellow)](https://blacklivesmatter.com/)
 
-
-
 [![Support Ukraine](https://img.shields.io/badge/SupportUkraine-blue)](https://supportukrainenow.org/)
 [![Support Ukraine](https://img.shields.io/badge/SupportUkraine-yellow)](https://supportukrainenow.org/)
 
 ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obonhamcarter&amp;show_icons=true&amp;theme=tokyonight)
 
-
 ![Grade](https://github-readme-stats.vercel.app/api?username=obonhamcarter&amp;show_icons=true&amp;theme=tokyonight)
-
 
 🔭 I’m currently working on:
 <a href="https://github.com/developmentAC/beagleTM" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/beagleTM/raw/master/graphics/beagleTM_logo2.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <a href="https://github.com/developmentAC/gradeAlert" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/gradeAlert/raw/main/graphics/gradeAlert_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <a href="https://github.com/developmentAC/genExSt" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/genExSt/raw/master/graphics/genExST_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <a href="https://github.com/developmentAC/Morse-Encode-Decoder" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/Morse-Encode-Decoder/raw/main/graphics/logo_morse.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-
 
 ## 🧰 Languages and Tools:
 <p align="center">
