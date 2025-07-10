@@ -16,7 +16,7 @@
 
 🔭 I’m currently working on:
 <p align="center">
-<a href="https://github.com/developmentAC/BeagleTA" target="_blank" rel="noopener noreferrer"> <img src="[https://github.com/developmentAC/BeagleTM2/blob/main/graphics/beagletm2_logo.png](https://github.com/developmentAC/BeagleTA/raw/main/graphics/logo.png)" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+<a href="https://github.com/developmentAC/BeagleTA" target="_blank" rel="noopener noreferrer"> <img src="[https://github.com/developmentAC/BeagleTA/raw/main/graphics/logo.png](https://github.com/developmentAC/BeagleTA/raw/main/graphics/logo.png)" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <a href="https://github.com/developmentAC/beagleTM2" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/BeagleTM2/blob/main/graphics/beagletm2_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <a href="https://github.com/developmentAC/gradeAlert" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/gradeAlert/raw/main/graphics/gradeAlert_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <a href="https://github.com/developmentAC/genExSt" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/developmentAC/genExSt/raw/master/graphics/genExST_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
